@@ -1,5 +1,7 @@
 # n52 stamp
 
+![](assets/irl.jpg)
+
 nRF52 stamp devboard with castellated holes on all 3 edges and a low profile,
 allowing it to be easily soldered onto a carrier board, without having to deal with
 the aQFN nRF52840 footprint. The board breaks out 36 I/O pins, and also has an
